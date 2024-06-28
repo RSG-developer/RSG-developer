@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...c and pythonn language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me --> on girmajirahul2@gmail.com
+- 📫 How to reach me --> on rahulgirmaji2505@gmail.com
 
 <!---
 RSG-developer/RSG-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
